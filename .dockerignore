@@ -1,0 +1,11 @@
+artifacts
+saved_models
+venv
+logs
+.git
+dataset1
+*.egg-info
+build
+dist
+__pycache__
+.env
